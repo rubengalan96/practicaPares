@@ -1,0 +1,84 @@
+
+h1{
+    text-transform: uppercase;
+    font-family: 'Sriracha';
+    background-color: rgb(255, 190, 11);
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 20px;
+    
+}
+nav{
+    height: 40px;
+    background-color: rgb(152, 209, 247);
+    margin-top: -17px;
+}
+ul {
+    list-style-type: none;
+  }
+  
+li{
+    border: black 2px solid;
+    float: left;
+    margin-right: 10px;
+  }
+  section.uno{
+      margin-top: 20px;
+      margin-bottom: 40px;
+      background-color: white;
+  }
+div.uno{
+    border-top: blue 20px solid;
+    border-bottom: blue 20px solid;
+}
+img.steve{
+    height: 200px;
+    width: 230px;
+    float:left;
+
+}
+p.uno{
+    color: blue;
+    font-weight: bold;
+}
+section.dos{
+    background-color: rgb(152, 209, 247);
+    height: 180px;
+    height: ;
+}
+
+div.dos{
+border-top: red 20px solid;
+border-bottom: red 20px solid;
+}
+p.dos{
+    color: orangered;
+}
+
+footer{
+    background-color: rgb(241, 102, 52);
+    text-align: center;
+}
+img.mac{
+    float: right;
+    height: 150px;
+    width: 150px;
+}
+span.negrita{
+    font-weight: bold;
+}
+span.amarillo{
+    background-color: yellow;
+}
+span.tachado{
+    text-decoration: line-through;
+}
+ul.productos{
+    list-style-type: katakana-iroha;
+    margin-left: 1cm;
+    background-color: wheat;
+}
+section.productos{
+
+}
